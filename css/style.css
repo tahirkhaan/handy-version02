@@ -1,0 +1,26 @@
+i.fa.fa-facebook {
+    color: #3B5998;
+}
+i.fa.fa-twitter {
+    color: #1DA1F2;
+}
+i.fa.fa-google{
+  color: #DB4437;
+}
+i.fa.fa-linkedin{
+  color: #007bb5;
+}
+.social a i {
+    font-size: 22px;
+}
+a#hire {
+    height: 2;
+    font-family: monospace;
+    padding: 6px 69px;
+    background: #5f9ea0;
+    color: #fff;
+    margin-bottom: 10px;
+}
+form.form-inline div input {
+    width: 100% !important;
+}
